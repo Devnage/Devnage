@@ -25,6 +25,9 @@ Here are some ideas to get you started:
   - [Image Scaler](https://github.com/Devnage/Image-Scaler)
   - [SRS-TDA](https://github.com/Devnage/SRS-TDA)
 
+- **Game Development**
+  - ['Di Mayupi](https://devnage.itch.io/dimayupi)
+
 ## 🤳 Connect with me:
 
 <a href="https://www.linkedin.com/in/elijahpasamba/" target="_blank">
